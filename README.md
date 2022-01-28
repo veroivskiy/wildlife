@@ -1,3 +1,3 @@
 # wildlife
-https://veroivskiy.github.io/wildlife/
+(https://veroivskiy.github.io/wildlife/){:target="_blank"}
 
