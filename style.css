@@ -8,7 +8,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .wrapper__survival {
-  background-image: url(/img/Rectangle.png);
+  background-image: url(./img/Rectangle.png);
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -206,7 +206,7 @@ background-color:transparent;
   text-align: center;
 }
 footer{
-  background-image:url('/img/Rectanglef.jpg');
+  background-image:url('./img/Rectanglef.jpg');
   padding: 160px 120px ;
   box-sizing: border-box;
   background-size: cover;
