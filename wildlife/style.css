@@ -8,7 +8,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .wrapper__survival {
-  background-image: url(/img/Rectangle.png);
+  background-image: url(wildlife/img/Rectangle.png);
   height: 100vh;
   background-size: cover;
   background-position: center;
